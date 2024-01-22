@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.left-div {
+    float: left;
+    width: 50%;
+    text-align: center; 
+}
+
+.right-div {
+    float: right;
+    width: 50%;
+}
